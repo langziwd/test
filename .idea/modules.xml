@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApiTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ApiTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApiTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ApiTest_main.iml" group="ApiTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ApiTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ApiTest_test.iml" group="ApiTest" />
+    </modules>
+  </component>
+</project>
